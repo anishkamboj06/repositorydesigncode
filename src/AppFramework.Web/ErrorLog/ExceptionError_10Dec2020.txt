@@ -1,0 +1,5 @@
+Admin Login : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AdminLoginMaster
+System.Object -> AppFramework.Domain.Model.AdminLoginMaster

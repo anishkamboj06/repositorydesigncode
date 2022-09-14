@@ -1,0 +1,2 @@
+Get All Employee : Procedure GetAllEmployee has no parameters and arguments were supplied.
+Get All Role : Procedure or function 'GetAllRole' expects parameter '@OrderByClause', which was not supplied.

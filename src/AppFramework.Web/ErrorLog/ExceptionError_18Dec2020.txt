@@ -1,0 +1,11 @@
+Save Navigation : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_navigation_master_feature_master_feature_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Feature", column 'Feature_Id'.
+The statement has been terminated.
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+Update Role : Procedure or function 'UpdateRole' expects parameter '@NavigationIds', which was not supplied.
+Update Role : Procedure or function 'UpdateRole' expects parameter '@NavigationIds', which was not supplied.
+Update Role : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> UpdateRole
+System.Object -> AppFramework.Domain.ApiModel.Role.UpdateRole
+Save Navigation : @RoleIds is not a parameter for procedure SaveNavigation.

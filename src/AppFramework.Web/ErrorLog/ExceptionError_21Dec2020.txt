@@ -1,0 +1,5 @@
+Citizen Login : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenLoginMaster
+System.Object -> AppFramework.Domain.Model.CitizenLoginMaster

@@ -1,0 +1,31 @@
+Get All Navigation : Could not find stored procedure 'GetAllNavigations'.
+Create Navigation : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> NavigationMaster
+System.Object -> AppFramework.Domain.Model.NavigationMaster
+Create Navigation : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> NavigationMaster
+System.Object -> AppFramework.Domain.Model.NavigationMaster
+Create Navigation : The method or operation is not implemented.
+Save Navigation : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddNavigation
+System.Object -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+Save Navigation : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddNavigation
+System.Object -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+Save Navigation : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Save Navigation : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Save Navigation : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Save Navigation : Could not find stored procedure 'SaveNavigation'.
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@CreatedOn', which was not supplied.
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@CreatedOn', which was not supplied.
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@CreatedBy', which was not supplied.
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@CreatedBy', which was not supplied.
+Save Navigation : Conversion failed when converting the varchar value 'string' to data type int.

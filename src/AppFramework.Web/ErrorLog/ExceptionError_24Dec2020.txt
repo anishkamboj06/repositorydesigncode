@@ -1,0 +1,8 @@
+Update Employee : @DesignationId is not a parameter for procedure UpdateEmployee.
+Update Citizen : Procedure or function UpdateCitizen has too many arguments specified.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : Procedure or function 'SaveEmployee' expects parameter '@DateOfJoining', which was not supplied.

@@ -1,0 +1,11 @@
+Create Citizen : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Create Citizen : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Citizen : Procedure or function SaveCitizen has too many arguments specified.
+Create Citizen : Procedure or function SaveCitizen has too many arguments specified.
+Create Citizen : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=138; handshake=426; [Login] initialization=2; authentication=20; [Post-Login] complete=14013; 
+Create Citizen : Procedure or function SaveCitizen has too many arguments specified.
+Create Citizen : Procedure or function SaveCitizen has too many arguments specified.

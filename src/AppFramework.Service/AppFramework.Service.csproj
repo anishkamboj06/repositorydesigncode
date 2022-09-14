@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <AppFrameworkReference Include="..\AppFramework.Data\AppFramework.Data.csproj" />
+    <AppFrameworkReference Include="..\AppFramework.Domain\AppFramework.Domain.csproj" />
+    <AppFrameworkReference Include="..\AppFramework.Utility\AppFramework.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppFramework.Data\AppFramework.Data.csproj" />
+    <ProjectReference Include="..\AppFramework.Domain\AppFramework.Domain.csproj" />
+    <ProjectReference Include="..\AppFramework.Utility\AppFramework.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
+
+

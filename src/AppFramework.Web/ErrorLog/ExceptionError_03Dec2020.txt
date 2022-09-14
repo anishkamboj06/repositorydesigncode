@@ -1,0 +1,79 @@
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : Procedure or function 'SaveEmployee' expects parameter '@FirstName', which was not supplied.
+Create Employee : Procedure or function 'SaveEmployee' expects parameter '@FirstName', which was not supplied.
+Create Employee : Procedure or function 'SaveEmployee' expects parameter '@FirstName', which was not supplied.
+Create Employee : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Create Employee : Procedure or function SaveEmployee has too many arguments specified.
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Update Citizen : Object reference not set to an instance of an object.
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Update Citizen : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+Update Citizen : Procedure or function 'Citizen_ChangePassword' expects parameter '@Id', which was not supplied.
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Get Citizen By Id:Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CitizenMaster
+System.Object -> AppFramework.Domain.Model.CitizenMaster
+Create Employee : Procedure or function SaveEmployee has too many arguments specified.

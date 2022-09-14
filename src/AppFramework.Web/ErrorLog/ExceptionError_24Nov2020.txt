@@ -1,0 +1,15 @@
+Create Role : The ConnectionString property has not been initialized.
+Create Role : Invalid object name 'RoleMaster'.
+Create Role : Violation of UNIQUE KEY constraint 'UK_role_master_role_title'. Cannot insert duplicate key in object 'dbo.role_master'. The duplicate key value is (Admin).
+The statement has been terminated.
+Create Role : Violation of UNIQUE KEY constraint 'UK_role_master_role_title'. Cannot insert duplicate key in object 'dbo.role_master'. The duplicate key value is (User).
+The statement has been terminated.
+Create Role : Violation of UNIQUE KEY constraint 'UK_role_master_role_title'. Cannot insert duplicate key in object 'dbo.role_master'. The duplicate key value is (User).
+The statement has been terminated.
+Create Role : Cannot implicitly convert type 'object' to 'int'. An explicit conversion exists (are you missing a cast?)
+Create Role : Cannot implicitly convert type 'object' to 'int'. An explicit conversion exists (are you missing a cast?)
+Get All Role : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> RoleMaster
+System.Object -> AppFramework.Domain.Model.RoleMaster

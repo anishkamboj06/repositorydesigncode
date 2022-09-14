@@ -1,0 +1,17 @@
+Save Navigation : The member  of type AppFramework.Domain.Model.RoleMetaData cannot be used as a parameter value
+Save Navigation : The member  of type AppFramework.Domain.Model.RoleMetaData cannot be used as a parameter value
+Save Navigation : The member  of type AppFramework.Domain.ApiModel.Navigation.RoleDetails cannot be used as a parameter value
+Save Navigation : The member values of type AppFramework.Domain.ApiModel.Navigation.AddNavigation cannot be used as a parameter value
+Save Navigation : The member values of type AppFramework.Domain.ApiModel.Navigation.AddNavigation cannot be used as a parameter value
+Save Navigation : Object reference not set to an instance of an object.
+Create Navigation : One or more errors occurred. (The process cannot access the file 'D:\Project\Application_Framework_v1\aspnet-core\src\AppFramework.Web\ErrorLog\ExceptionError_16Dec2020.txt' because it is being used by another process.)
+Save Navigation : Object reference not set to an instance of an object.
+Save Navigation : Object reference not set to an instance of an object.
+Save Navigation : Procedure or function SaveNavigation has too many arguments specified.
+Save Navigation : Procedure or function SaveNavigation has too many arguments specified.
+Save Navigation : @RoleId is not a parameter for procedure SaveNavigation.
+Save Navigation : Object reference not set to an instance of an object.
+Get All Navigation : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Get All Navigation : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Get All Navigation : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Get All Navigation : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

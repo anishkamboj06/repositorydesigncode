@@ -1,0 +1,31 @@
+Save Workflow Process  : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddWorkflowProcess
+System.Object -> AppFramework.Domain.ApiModel.WorkflowProcess.AddWorkflowProcess
+Create Module : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_module_master_feature_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Feature", column 'Feature_Id'.
+The statement has been terminated.
+Create Module : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_module_master_feature_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Feature", column 'Feature_Id'.
+The statement has been terminated.
+Save Workflow Process  : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddWorkflowProcess
+System.Object -> AppFramework.Domain.ApiModel.WorkflowProcess.AddWorkflowProcess
+Save Workflow Process  : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddWorkflowProcess
+System.Object -> AppFramework.Domain.ApiModel.WorkflowProcess.AddWorkflowProcess
+Save Workflow Process  : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> AddWorkflowProcess
+System.Object -> AppFramework.Domain.ApiModel.WorkflowProcess.AddWorkflowProcess
+Update Workflow Process  : Procedure or function 'Md_Workflow_Process_Insert_Update' expects parameter '@FirstRoleMapping', which was not supplied.
+Update Workflow Process  : Procedure or function 'Md_Workflow_Process_Insert_Update' expects parameter '@FirstRoleMapping', which was not supplied.
+Update Workflow Process  : Procedure or function 'Md_Workflow_Process_Insert_Update' expects parameter '@FirstRoleMapping', which was not supplied.
+Update Workflow Process  : @ProcessId is not a parameter for procedure Md_Workflow_Process_Insert_Update.
+Delete Workflow Process  : Procedure or function 'Md_Workflow_Process_Delete' expects parameter '@DeletedByEmp', which was not supplied.
+Delete Workflow Process  : Invalid object name 'Md_Process_Master'.
+Get WOrk flow Process By Id:Sequence contains no elements

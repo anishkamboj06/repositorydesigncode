@@ -1,0 +1,53 @@
+Get All Navigation : Unexpected character encountered while parsing value: S. Path '', line 0, position 0.
+Save Navigation : Object reference not set to an instance of an object.
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+<<<<<<< Updated upstream
+Save Navigation : Procedure or function SaveNavigation has too many arguments specified.
+Update Navigation  : Object reference not set to an instance of an object.
+Update Navigation  : Object reference not set to an instance of an object.
+Update Navigation  : Object reference not set to an instance of an object.
+Update Navigation  : Object reference not set to an instance of an object.
+=======
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+Save Navigation : Trying to pass a table-valued parameter with 2 column(s) where the corresponding user-defined table type requires 1 column(s).
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+Save Navigation : Error mapping types.
+
+Mapping types:
+NavigationMaster -> AddNavigation
+AppFramework.Domain.Model.NavigationMaster -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+
+Type Map configuration:
+NavigationMaster -> AddNavigation
+AppFramework.Domain.Model.NavigationMaster -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+
+Destination Member:
+RoleList
+
+Save Navigation : Error mapping types.
+
+Mapping types:
+NavigationMaster -> AddNavigation
+AppFramework.Domain.Model.NavigationMaster -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+
+Type Map configuration:
+NavigationMaster -> AddNavigation
+AppFramework.Domain.Model.NavigationMaster -> AppFramework.Domain.ApiModel.Navigation.AddNavigation
+
+Destination Member:
+RoleList
+
+Save Navigation : An enumerable sequence of parameters (arrays, lists, etc) is not allowed in this context
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@FeatureId', which was not supplied.
+Save Navigation : Procedure or function 'SaveNavigation' expects parameter '@FeatureId', which was not supplied.
+Save Navigation : @RoleList is not a parameter for procedure SaveNavigation.
+>>>>>>> Stashed changes
+Update Navigation  : @IsActive is not a parameter for procedure UpdateNavigation.
+Update Navigation  : @IsActive is not a parameter for procedure UpdateNavigation.
+Update Navigation  : The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_navigation_master_feature_master_feature_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Feature", column 'Feature_Id'.
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK_role_navigation_mapping_role_master_role_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Role", column 'Role_Id'.
+The statement has been terminated.
+The statement has been terminated.
+Update Navigation  : The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_navigation_master_feature_master_feature_id". The conflict occurred in database "ApplicationFrameworkV1", table "dbo.Md_Feature", column 'Feature_Id'.
+The statement has been terminated.

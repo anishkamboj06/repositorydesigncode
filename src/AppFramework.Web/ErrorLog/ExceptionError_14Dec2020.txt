@@ -1,0 +1,17 @@
+Save Navigation : Conversion failed when converting the varchar value 'string' to data type int.
+Save Navigation : Conversion failed when converting the varchar value 'string' to data type int.
+Save Navigation : Violation of UNIQUE KEY constraint 'UK_navigation_master_url'. Cannot insert duplicate key in object 'dbo.Md_Navigation'. The duplicate key value is (string).
+The statement has been terminated.
+Save Navigation : Violation of UNIQUE KEY constraint 'UK_navigation_master_url'. Cannot insert duplicate key in object 'dbo.Md_Navigation'. The duplicate key value is (string).
+The statement has been terminated.
+Update Workflow Process : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> NavigationMaster
+System.Object -> AppFramework.Domain.Model.NavigationMaster
+Update Navigation  : Procedure or function 'UpdateNavigation' expects parameter '@FeatureIdFk', which was not supplied.
+Update Navigation  : Violation of UNIQUE KEY constraint 'UK_navigation_master_url'. Cannot insert duplicate key in object 'dbo.Md_Navigation'. The duplicate key value is (sqqw).
+The statement has been terminated.
+Update Navigation  : Violation of UNIQUE KEY constraint 'UK_navigation_master_url'. Cannot insert duplicate key in object 'dbo.Md_Navigation'. The duplicate key value is (sqqw).
+The statement has been terminated.
+Get Navigation By Id : Procedure or function 'GetRoleById' expects parameter '@RoleId', which was not supplied.

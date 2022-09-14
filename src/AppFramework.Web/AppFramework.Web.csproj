@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>f038ac1f-3bbe-43e5-8c4e-b6b5aa68fdfc</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AppFrameworkReference Include="..\AppFramework.Domain\AppFramework.Domain.csproj" />
+    <AppFrameworkReference Include="..\AppFramework.Service\AppFramework.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppFramework.Data\AppFramework.Data.csproj" />
+    <ProjectReference Include="..\AppFramework.Domain\AppFramework.Domain.csproj" />
+    <ProjectReference Include="..\AppFramework.Service\AppFramework.Service.csproj" />
+    <ProjectReference Include="..\AppFramework.Utility\AppFramework.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
+
+

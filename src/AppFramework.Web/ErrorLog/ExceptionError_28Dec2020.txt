@@ -1,0 +1,6 @@
+Upload Profile ImageBuffer cannot be null. (Parameter 'buffer')
+Upload Profile ImageBuffer cannot be null. (Parameter 'buffer')
+Upload Profile ImageBuffer cannot be null. (Parameter 'buffer')
+Upload Profile ImageValue cannot be null. (Parameter 'path1')
+Upload Profile ImageCould not find stored procedure 'UploadProfileImage'.
+Upload Profile ImageCould not find stored procedure 'UploadProfileImage'.

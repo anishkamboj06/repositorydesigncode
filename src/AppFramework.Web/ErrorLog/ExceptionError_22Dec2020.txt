@@ -1,0 +1,24 @@
+Update Employee Profile : Cannot insert the value NULL into column 'Email', table 'ApplicationFrameworkV1.dbo.Md_Employee'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+Update Employee Profile : Cannot insert the value NULL into column 'Email', table 'ApplicationFrameworkV1.dbo.Md_Employee'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[AppFramework.Domain.Model.EmployeeFeatureNavigationMaster, AppFramework.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[AppFramework.Domain.Model.EmployeeFeatureNavigationMaster, AppFramework.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[AppFramework.Domain.Model.EmployeeFeatureNavigationMaster, AppFramework.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error mapping types.
+
+Mapping types:
+Object -> List`1
+System.Object -> System.Collections.Generic.List`1[[AppFramework.Domain.Model.EmployeeFeatureNavigationMaster, AppFramework.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]

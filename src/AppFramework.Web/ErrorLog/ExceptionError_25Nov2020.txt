@@ -1,0 +1,10 @@
+Get Role By Id : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> RoleMaster
+System.Object -> AppFramework.Domain.Model.RoleMaster
+Get Role By Id : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> RoleMaster
+System.Object -> AppFramework.Domain.Model.RoleMaster

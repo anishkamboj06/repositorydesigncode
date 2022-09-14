@@ -1,0 +1,4 @@
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@FirstName', which was not supplied.
+Create Citizen : Procedure or function 'SaveCitizen' expects parameter '@UserPassword', which was not supplied.
+Create Citizen : A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
